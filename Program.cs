@@ -7,18 +7,20 @@ namespace Planner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("woohoo!");
+            Building MartinsBBQ = new Building("123 Belmont Ave");
+            MartinsBBQ.Width = 3000;
+            MartinsBBQ.Depth = 5000;
+            MartinsBBQ.Stories = 2;
+            MartinsBBQ.Purchase("Martn Barbedude");
 
-            List<string> inventory = new List<string>();
-            inventory.Add("batteries");
-            inventory.Add("golf tees");
-            inventory.Add("zippers");
-            inventory.Add("cabin accessories");
+            Building EdleysBBQ = new Building("12 South");
+            EdleysBBQ.Width = 1400;
+            EdleysBBQ.Depth = 1800;
+            EdleysBBQ.Stories = 2;
+            EdleysBBQ.Purchase("Ed Barby");
 
-            // Make a new instance of a Store
-            Store myStore = new Store("Stuff 'n' Things", inventory);
-            Console.WriteLine($"ssssssssssssssss" + myStore);
-
+            MartinsBBQ.ShowBuilding();
+            EdleysBBQ.ShowBuilding();
         }
 
     }
