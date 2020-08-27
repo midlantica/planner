@@ -21,10 +21,9 @@ namespace Planner
             get
             {
                 double Equation = Width * Depth * (3 * Stories);
-                String.Format("{0:0.00}", Equation);
-                // // double EquationFloored = Math.Round(Equation);
-                // return EquationFloored;
-                return Equation;
+                double EquationFloored = Math.Floor(Equation);
+                return EquationFloored;
+                // return Equation;
             }
         }
 
