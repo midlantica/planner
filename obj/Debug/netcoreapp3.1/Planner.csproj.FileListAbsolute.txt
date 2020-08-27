@@ -1,0 +1,12 @@
+/Users/drewharper/Documents/workspace on Mac/planner/bin/Debug/netcoreapp3.1/Planner.deps.json
+/Users/drewharper/Documents/workspace on Mac/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.json
+/Users/drewharper/Documents/workspace on Mac/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.dev.json
+/Users/drewharper/Documents/workspace on Mac/planner/bin/Debug/netcoreapp3.1/Planner.dll
+/Users/drewharper/Documents/workspace on Mac/planner/bin/Debug/netcoreapp3.1/Planner.pdb
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.csprojAssemblyReference.cache
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfoInputs.cache
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfo.cs
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.csproj.CoreCompileInputs.cache
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.dll
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.pdb
+/Users/drewharper/Documents/workspace on Mac/planner/obj/Debug/netcoreapp3.1/Planner.genruntimeconfig.cache
